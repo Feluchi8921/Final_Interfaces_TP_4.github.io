@@ -161,7 +161,7 @@ nav {
 
 .menu-desplegado {
   position: absolute;
-  top: 50px;
+  top: 30px;
   left: -150%; /* Oculta el menú al inicio */
   width: 100%;
   height: calc(100vh - 100px);
